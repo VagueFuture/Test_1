@@ -515,4 +515,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: F:/Program Files/Unity/Test 1/test_1.apk
+  playerPath: F:/Program Files/Unity/test_1.apk
